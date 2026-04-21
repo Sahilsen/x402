@@ -1,7 +1,8 @@
 {
-  "name": "QuickNode",
+  "name": "Quicknode",
   "category": "Infrastructure & Tooling",
   "logoUrl": "/logos/quicknode.png",
-  "description": "A Ruby gem that simplifies the process of adding paywalls to API routes in Ruby on Rails applications.",
-  "websiteUrl": "https://github.com/quiknode-labs/x402-rails"
+  "description": "Quicknode unlocks blockchain RPC and API access via x402, letting anyone with a wallet and stablecoins make on-demand calls across supported networks, no account or API keys required.",
+  "websiteUrl": "https://www.quicknode.com/agents?utm_source=X402&utm_campaign=X402WEBSITE",
+  "top_section": true
 }
